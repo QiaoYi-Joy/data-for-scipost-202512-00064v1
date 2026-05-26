@@ -10,6 +10,8 @@ This repository contains the numerical data used to reproduce the figures and re
 
 The data are provided as plain text files and can be read directly using standard numerical or plotting software.
 
-## Citation
+## License
+
+The data in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 If you use these data, please cite the corresponding manuscript.
