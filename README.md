@@ -1,6 +1,7 @@
 # Data for SciPost resubmission scipost_202512_00064v1
 
 This repository contains the numerical data used to reproduce the figures and results in the manuscript.
+ArXiv: 2512.24182
 
 ## Files
 
